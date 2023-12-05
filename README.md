@@ -63,5 +63,8 @@ C++23标准可以使用显式对象参数作为非静态成员函数的第一个
 ```
 
 ## 2. 《每天5分钟了解C++新特性》视频PPT  
+
+这是一套关于《现代C++语言核心特性解析》的介绍视频，分为42集每集5分钟，概括的介绍了《现代C++语言核心特性解析》里的内容，对于想了解C++新特性但是没时间或者不想深入了解的朋友可能会有一些帮助。
+
 - [B站合集视频地址](https://space.bilibili.com/3493295527299091/channel/collectiondetail?sid=1626636&ctype=0)  
 - [PPT地址](https://github.com/0cch/moderncpp_public/tree/main/ppt)
